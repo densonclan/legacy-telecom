@@ -1,0 +1,1 @@
+txt=Welcome to our online shop.

@@ -1,0 +1,380 @@
+# Webalizer V2.01-10 Incremental Data - 03/03/2013 23:59:10
+2013 3 3 23 59 10
+285 195 40 11 12 29 624304 208 60 0
+14 3 71 1 3
+159 131 458756 20 139 23
+81 27 56605 15 38 21
+45 37 108943 14 31 16
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 3 1433 2
+6 5 3792 3
+4 2 1885 2
+2 2 1132 1
+1 1 301 1
+4 4 1734 3
+5 5 1505 5
+1 1 831 0
+5 3 1337 5
+8 8 3998 5
+14 6 12905 10
+8 4 6112 4
+22 3 12110 9
+16 0 12742 4
+3 1 1764 1
+7 6 4093 4
+69 62 316967 62
+71 56 217012 69
+4 3 2202 3
+9 2 9721 1
+7 5 2968 5
+8 6 3852 4
+4 4 2264 2
+4 3 1644 3
+0
+0
+0
+195
+0
+0
+0
+0
+0
+0
+0
+1
+21
+0
+33
+0
+0
+0
+0
+0
+0
+35
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/www.legacytelecom.co.uk/webmail/src/read_body.php
+0 8 0 165549 0 0
+/www.legacytelecom.co.uk/webmail/src/left_main.php
+0 52 1935933440 39287 1 0
+/www.legacytelecom.co.uk/
+0 82 825830712 17458 58 25
+/www.legacytelecom.co.uk/webmail/src/login.php
+0 7 0 9380 0 0
+/www.legacytelecom.co.uk/webmail/src/download.php
+0 3 19838 42141 0 0
+/www.legacytelecom.co.uk/webmail/src/right_main.php
+0 40 1869047657 280012 0 1
+/www.legacytelecom.co.uk/robots.txt
+0 21 0 17451 0 0
+/www.legacytelecom.co.uk/webmail/images/sec_remove_eng.png
+1 1 875638326 4261 0 0
+/www.legacytelecom.co.uk/webmail/src/webmail.php
+0 5 1851876716 1881 0 0
+/www.legacytelecom.co.uk/webmail/images/sort_none.png
+1 2 97 0 0 0
+/www.legacytelecom.co.uk/webmail/themes/css/sans-10.css
+0 7 808594995 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-157-55-33-18.search.msn.com
+0 6 6 3396 3 1362262353
+/www.legacytelecom.co.uk/
+host81-149-187-219.in-addr.btopenworld.com
+0 3 2 1829 1 1362151032
+/www.legacytelecom.co.uk/
+crawl-66-249-73-187.googlebot.com
+0 3 3 1433 2 1362302169
+/www.legacytelecom.co.uk/
+173.199.120.163.ahrefs.com
+0 1 1 831 0 0
+-
+crawl-66-249-75-228.googlebot.com
+0 3 3 1433 1 1362355150
+/www.legacytelecom.co.uk/
+msnbot-157-55-32-93.search.msn.com
+0 6 6 3396 3 1362346109
+/www.legacytelecom.co.uk/
+119.63.193.131
+0 1 1 301 1 1362204073
+/www.legacytelecom.co.uk/
+119.63.193.132
+0 1 1 301 1 1362290460
+/www.legacytelecom.co.uk/
+gw.jigsaw.com
+0 1 0 223 1 1362105886
+/www.legacytelecom.co.uk/
+msnbot-157-56-93-194.search.msn.com
+0 4 4 2264 2 1362131309
+/www.legacytelecom.co.uk/
+cpc10-ward8-2-0-cust203.10-2.cable.virginmedia.com
+0 49 5 37513 5 1362308509
+/www.legacytelecom.co.uk/
+119.63.193.194
+0 1 1 301 1 1362117526
+/www.legacytelecom.co.uk/
+123.151.148.211
+0 9 9 2709 9 1362344813
+/www.legacytelecom.co.uk/
+202.46.61.29
+0 1 1 301 1 1362290417
+/www.legacytelecom.co.uk/
+crawl03.exabot.com
+0 2 1 831 1 1362192012
+/www.legacytelecom.co.uk/
+crawl-66-249-76-138.googlebot.com
+0 2 0 456 1 1362174564
+/www.legacytelecom.co.uk/
+93.159.230.14
+0 3 0 633 3 1362314672
+/www.legacytelecom.co.uk/
+crawl-66-249-76-228.googlebot.com
+0 5 5 2565 3 1362222177
+/www.legacytelecom.co.uk/
+msnbot-199-30-16-78.search.msn.com
+0 1 0 1227 0 0
+-
+host31-51-16-113.range31-51.btcentralplus.com
+0 35 23 107235 3 1362328871
+/www.legacytelecom.co.uk/webmail/src/right_main.php
+159.86.191.23
+0 2 1 1528 1 1362138303
+/www.legacytelecom.co.uk/
+host217-39-168-97.in-addr.btopenworld.com
+0 2 1 1528 1 1362139696
+/www.legacytelecom.co.uk/
+msnbot-157-55-35-76.search.msn.com
+0 2 2 1132 1 1362176739
+/www.legacytelecom.co.uk/
+124.115.6.12
+0 2 2 1662 0 0
+-
+31-222-184-25.static.cloud-ips.co.uk
+0 2 2 1132 1 1362241319
+/www.legacytelecom.co.uk/
+host217-41-25-60.in-addr.btopenworld.com
+0 121 101 439663 2 1362163741
+/www.legacytelecom.co.uk/webmail/src/left_main.php
+5.70.42.124
+0 1 1 301 1 1362307119
+/www.legacytelecom.co.uk/
+spider-37-140-141-1.yandex.com
+0 2 2 1132 1 1362101271
+/www.legacytelecom.co.uk/
+bzq-219-119-176.static.bezeqint.net
+0 1 1 301 1 1362112852
+/www.legacytelecom.co.uk/
+62.90.179.83
+0 1 1 301 1 1362254792
+/www.legacytelecom.co.uk/
+msnbot-199-30-16-77.search.msn.com
+0 1 0 1227 0 0
+-
+server77-68-56-173.live-servers.net
+0 2 2 1132 1 1362325981
+/www.legacytelecom.co.uk/
+baiduspider-220-181-108-97.crawl.baidu.com
+0 1 1 301 1 1362127324
+/www.legacytelecom.co.uk/
+baiduspider-123-125-71-14.crawl.baidu.com
+0 1 1 831 0 0
+-
+baiduspider-123-125-71-18.crawl.baidu.com
+0 1 1 301 1 1362127268
+/www.legacytelecom.co.uk/
+202.46.49.74
+0 1 1 301 1 1362117484
+/www.legacytelecom.co.uk/
+msnbot-65-55-213-245.search.msn.com
+0 1 0 1227 0 0
+-
+202.46.50.72
+0 1 1 301 1 1362204029
+/www.legacytelecom.co.uk/
+2-198-94-81.rackcentre.redstation.net.uk
+0 1 1 301 1 1362204971
+/www.legacytelecom.co.uk/
+173.199.119.35.ahrefs.com
+0 2 1 524 2 1362213878
+/www.legacytelecom.co.uk/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-73-187.googlebot.com
+0 3 3 1433 2 1362302169
+/www.legacytelecom.co.uk/
+crawl-66-249-75-228.googlebot.com
+0 3 3 1433 1 1362355150
+/www.legacytelecom.co.uk/
+msnbot-157-55-32-93.search.msn.com
+0 6 6 3396 3 1362346109
+/www.legacytelecom.co.uk/
+119.63.193.132
+0 1 1 301 1 1362290460
+/www.legacytelecom.co.uk/
+cpc10-ward8-2-0-cust203.10-2.cable.virginmedia.com
+0 3 1 2755 1 1362308509
+/www.legacytelecom.co.uk/
+123.151.148.211
+0 3 3 903 3 1362344813
+/www.legacytelecom.co.uk/
+202.46.61.29
+0 1 1 301 1 1362290417
+/www.legacytelecom.co.uk/
+93.159.230.14
+0 1 0 211 1 1362314672
+/www.legacytelecom.co.uk/
+msnbot-199-30-16-78.search.msn.com
+0 1 0 1227 0 0
+-
+host31-51-16-113.range31-51.btcentralplus.com
+0 18 15 93492 1 1362328871
+/www.legacytelecom.co.uk/webmail/src/right_main.php
+124.115.6.12
+0 1 1 831 0 0
+-
+5.70.42.124
+0 1 1 301 1 1362307119
+/www.legacytelecom.co.uk/
+msnbot-199-30-16-77.search.msn.com
+0 1 0 1227 0 0
+-
+server77-68-56-173.live-servers.net
+0 2 2 1132 1 1362325981
+/www.legacytelecom.co.uk/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 147
+http://client.amenworld.com/setup/viewDomain.php
+0 9
+http://www.google.co.uk/search
+0 1
+http://www.google.co.uk/url
+0 3
+http://www.legacytelecom.co.uk/
+1 1
+http://www.legacytelecom.co.uk/webmail/src/read_body.php
+1 4
+http://www.yell.com/ucs/UcsSearchAction.do
+0 1
+http://www.legacytelecom.co.uk/webmail/src/webmail.php
+1 9
+http://www.legacytelecom.co.uk/webmail/src/left_main.php
+1 88
+http://www.legacytelecom.co.uk/webmail/src/login.php
+1 8
+http://www.sigma-usa.com
+0 1
+http://www.legacytelecom.co.uk/webmail/src/right_main.php
+1 13
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox
+0 1
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobil
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET 
+0 1
+Mozilla/5.0(compatible; Sosospider/2.0; +http://help.soso.com
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 F
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.
+0 123
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/5
+0 2
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.c
+0 2
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.57.2 (KHTML, lik
+0 8
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/g
+0 2
+LocalBot/1.1 (+http://www.localbot.co.uk/)
+0 2
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X; en-us) AppleWe
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) Apple
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.14) 
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Tri
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/53
+0 36
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bo
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 9
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-u
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like 
+0 8
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.22 (KHTML, like 
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bi
+0 21
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NE
+0 27
+Mozilla/5.0 (compatible; AhrefsBot/4.0; +http://ahrefs.com/ro
+0 3
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+0 1
+Sosospider+(+http://help.soso.com/webspider.htm)
+0 9
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 
+0 2
+Mozilla/5.0 (Linux; U; Android 2.2; nl-nl; Desire_A8181 Build
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

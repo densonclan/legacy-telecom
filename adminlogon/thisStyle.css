@@ -1,0 +1,89 @@
+/* CSS Document */
+
+body {
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-attachment: scroll;
+	background-color: #FFFFFF;
+	background-image: url(stripe.jpg);
+	background-repeat: repeat-x;
+	background-position: left 110px;	
+}
+
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000066;
+
+
+}a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: none;
+}
+.line {
+	background-color: #000066;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1px;
+}
+
+.line3 {
+	background-color: #F1F2F2;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1px;
+}
+.line2 {
+	background-color: #cccccc;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000066;
+}
+.lineRed {
+	background-color: #ff0000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #ffffff;
+}
+.backBlue {
+	background-color: #000066;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.white {
+	background-color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000066;
+}
+.pink {
+	background-color: #f4d4ec;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000066;
+}
+.green {
+	background-color: #d0fabd;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000066;
+}
+.yellow {
+	background-color: #f4f5ab;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000066;
+}

@@ -1,0 +1,186 @@
+<HTML>
+<HEAD>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<TITLE>Legacy Telecom</TITLE>
+<SCRIPT LANGUAGE=JavaScript1.1>
+<!--
+var MM_contentVersion = 7;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var MM_PluginVersion = words[i]; 
+	    }
+	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+   && (navigator.appVersion.indexOf("Win") != -1)) {
+	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+	document.write('</SCR' + 'IPT\> \n');
+}
+if ( MM_FlashCanPlay ) {
+
+		
+} else{
+	document.location="getflash.htm";
+}
+//-->
+
+
+
+
+
+</script>
+<script language="Javascript">
+
+function setSize(){
+
+
+
+
+if(document.all){
+maxW = document.body.clientWidth;
+maxH = document.body.clientHeight
+}else{
+maxW = window.innerWidth;
+maxH = window.innerHeight;
+}
+
+
+
+var ie = navigator.appName.indexOf("Microsoft") != -1;
+var thisMovie = (ie ? window.legacytelecom: window.document.legacytelecom);
+
+thisValue1 = maxW;
+thisValue2 = maxH;
+
+thisMovie.SetVariable("maxW",thisValue1);
+thisMovie.SetVariable("maxH",thisValue2);
+thisMovie.SetVariable("begin",1);
+
+
+
+
+
+
+
+}
+
+function setSize1(){
+
+
+
+
+
+
+window.location = "flash.htm";
+
+
+
+
+
+
+
+
+}
+
+function setflashdate(){
+Stamp = new Date();
+year = Stamp.getYear();
+if (year < 2000) year = 1900 + year;
+
+var Hours;
+var Mins;
+var Time;
+var Seconds;
+Seconds = Stamp.getSeconds();
+if (Seconds < 10) {
+Seconds = "0" + Seconds;
+}
+Hours = Stamp.getHours();
+if (Hours >= 12) {
+Time = "pm  ";
+}
+else {
+Time = "am  ";
+}
+if (Hours > 12) {
+//Hours -= 12;
+}
+if (Hours == 0) {
+//Hours = 12;
+}
+Mins = Stamp.getMinutes();
+if (Mins < 10) {
+Mins = "0" + Mins;
+}
+
+day = Stamp.getDay();
+if(day == 1){
+day="Monday";
+}else if(day == 2){
+day="Tuesday";
+}else if(day == 3){
+day="Wednesday";
+}else if(day == 4){
+day="Thursday";
+}else if(day == 5){
+day="Friday";
+}else if(day==6){
+day="Saturday";
+}else if(day==7){
+day="Sunday";
+}
+
+date = Stamp.getDate();
+if(date == 1){
+ext = "st";
+}else if (date == 3){
+ext = "rd";
+}else if (date == 23){
+ext = "rd";
+}else if (date == 21){
+ext = "st";
+}else{
+ext = "th";
+}
+
+month = Stamp.getMonth()+1;
+
+ 
+var datestu =  "Today is "+day+", "+date+"/"+month+"/"+year+". "+Hours+":"+Mins+":"+Seconds;	
+var ie = navigator.appName.indexOf("Microsoft") != -1;
+var thisMovie = (ie ? window.legacytelecom : window.document.legacytelecom);
+thisMovie.SetVariable ("datetime", datestu);
+
+setTimeout ("setflashdate();", 500);
+
+}
+
+
+function openSurvey(survey){
+
+
+window.open(survey,"","width=100,height,100,left=0,top=0,location=no,toolbar=no,resizable=no,scrollbars=yes");
+
+
+}
+
+
+
+</script>
+</HEAD>
+<BODY bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="setSize();setflashdate();" onResize="setSize1();">
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0"
+ WIDTH="100%" HEIGHT="100%" id="legacytelecom" ALIGN="">
+ <PARAM NAME=movie VALUE="legacytelecom.swf"> <PARAM NAME=menu VALUE=false> <PARAM NAME=quality VALUE=high> <PARAM NAME=scale VALUE=noscale> <PARAM NAME=bgcolor VALUE=#FFFFFF> <EMBED src="legacytelecom.swf" menu=false quality=high scale=noscale bgcolor=#FFFFFF  WIDTH="100%" HEIGHT="100%" NAME="legacytelecom" ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+</OBJECT>
+</BODY>
+</HTML>

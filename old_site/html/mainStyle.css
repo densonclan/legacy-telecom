@@ -1,0 +1,45 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000066;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+	background-image: url(menuBack.jpg);
+	background-repeat: repeat-y;
+	background-position:left;
+
+}
+.redStripeBack {
+	background-color: #FFFFFF;
+	background-image: url(backMain.jpg);
+	background-repeat: repeat-x;
+}
+
+.sideMenu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	background-color: #1B1457;
+	background-image: url(menuBack.jpg);
+	background-repeat: repeat-y;
+	
+	
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration: none;
+}
+
+
+.imgBR {
+	border: 1px solid #000066;
+}
+.imgMargin {
+	
+	margin: 8px;
+}
